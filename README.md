@@ -1,5 +1,5 @@
 # OperatingSystem
-Projects for Operating System in Sogang Univ.
+Projects for Operating System in Sogang Univ.  
 작성일자 : 2019-11-03
 
 # 개발 목표
