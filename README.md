@@ -1,5 +1,6 @@
 # OperatingSystem
 Projects for Operating System in Sogang Univ.
+작성일자 : 2019-11-03
 
 # 개발 목표
 -	Pintos OS의 기초 코드를 사용하여 userprogram을 구현하는 것이 목표이다. Argument passing과 6개의 system call인 halt(), exit(), exec(), wait(), write(), read()를 구현하여 Pintos에서 userprogram을 동작할 수 있게 하였다. 추가적으로 피보나치 수열을 구하는 fibonacci()와 네 정수의 합을 구하는 sum_of_four_int() system call도 구현하였다.
